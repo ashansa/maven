@@ -1,0 +1,5 @@
+dependencies:
+  - recipe: maven::default
+    local:
+      - maven::default
+    global:
