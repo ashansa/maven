@@ -1,4 +1,5 @@
 dependencies:
+  - recipe: maven::install
   - recipe: maven::default
     local:
       - maven::default
